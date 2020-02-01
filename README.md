@@ -1,1 +1,3 @@
-# Yellowworld19
+# maven-project
+
+Simple Maven Project
